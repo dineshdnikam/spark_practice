@@ -1,0 +1,29 @@
+{
+    "Employee": [
+        {
+            "emp_id": 10112333,
+            "designation": "Supervisor",
+            "attribute": [
+                {
+                    "parent_id": 10111164,
+                    "department": [
+                        {
+                            "dept_id": 653357,
+                            "dept_name": "design"
+                        }]
+                }]
+        },
+        {
+            "emp_id": 10112334,
+            "designation": "Manager",
+            "attribute": [
+                {
+                    "parent_id": 10111165,
+                    "department": [
+                        {
+                            "dept_id": 653357,
+                            "dept_name": "Manager"
+                        }]
+                }]
+        }]
+}
