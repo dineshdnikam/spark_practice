@@ -1,0 +1,5 @@
+file name: "abc.txt"
+
+Emp_id		Emp_name
+101		Dinesh
+102		Durgesh
